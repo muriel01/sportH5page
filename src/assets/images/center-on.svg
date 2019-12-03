@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>切片</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="375" height="49"></rect>
+        <filter x="-0.1%" y="-0.5%" width="100.1%" height="101.0%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="0.5" in="SourceAlpha" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.25 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="我的" transform="translate(-325.000000, -600.000000)">
+            <rect fill="#F6F6F8" x="0" y="0" width="375" height="644"></rect>
+            <g id="编组备份" transform="translate(0.000000, 595.000000)">
+                <g id="Bar">
+                    <use fill-opacity="0.95" fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                </g>
+                <g id="编组-10" transform="translate(325.000000, 5.000000)" fill="#FF3B30" stroke="#FF3B30" stroke-linejoin="round" stroke-width="1.5">
+                    <path d="M12,3 C14.7614237,3 17,5.23857625 17,8 C17,9.89262493 15.948438,11.5396444 14.3977005,12.3886718 C17.644457,13.470575 20,16.6930115 20,20.5 C20,20.6678474 19.9954211,20.8345585 19.9863889,21 L4.0136111,21 C4.00457886,20.8345585 4,20.6678474 4,20.5 C4,16.6930115 6.35554304,13.470575 9.60254049,12.3882846 C8.05156203,11.5396444 7,9.89262493 7,8 C7,5.23857625 9.23857625,3 12,3 Z" id="形状结合备份-2"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

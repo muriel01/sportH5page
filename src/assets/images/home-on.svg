@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>切片备份 15</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="876" width="375" height="49"></rect>
+        <filter x="-0.1%" y="-0.5%" width="100.1%" height="101.0%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="0.5" in="SourceAlpha" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.25 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="首页" transform="translate(-26.000000, -881.000000)">
+            <rect fill="#F3F4F6" x="0" y="0" width="375" height="925"></rect>
+            <g id="Bar">
+                <use fill-opacity="0.95" fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+            </g>
+            <g id="编组-14" transform="translate(26.000000, 881.000000)" fill="#FF3B30" stroke="#FF3B30" stroke-linejoin="round" stroke-width="1.5">
+                <path d="M11.4806186,4.14545745 C11.7997151,3.95151418 12.2002849,3.95151418 12.5193814,4.14545745 L12.5193814,4.14545745 L19.5193814,8.39997915 C19.8178125,8.58136226 20,8.90529259 20,9.2545217 L20,9.2545217 L20,19.8297832 C20,20.382068 19.5522847,20.8297832 19,20.8297832 L19,20.8297832 L14.5,20.829 L14.5,16.3297832 C14.5,15.0042999 13.4684641,13.9197446 12.1643757,13.8351009 L12,13.8297832 C10.6192881,13.8297832 9.5,14.9490714 9.5,16.3297832 L9.5,16.3297832 L9.5,20.829 L5,20.8297832 C4.48716416,20.8297832 4.06449284,20.4437431 4.00672773,19.9464044 L4,19.8297832 L4,9.2545217 C4,8.90529259 4.18218747,8.58136226 4.4806186,8.39997915 L4.4806186,8.39997915 Z" id="形状结合"></path>
+            </g>
+        </g>
+    </g>
+</svg>
